@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "pankajcode-sleep",
+        "email": "pankajrawat199907@gmail.com"
+    },
+    "records": {
+        "CNAME": "47inisw8.up.railway.app",
+        "TXT": {
+            "_railway-verify": "railway-verify=1972dfc7a1d5f68756db92ed2e15ef676e0934dd780b0ad8da8d593efca96891"
+        }
+    }
+}
